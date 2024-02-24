@@ -1,0 +1,15 @@
+Question: Describe the patches found on Europa --- Reason for flag: test 
+Question: What will VERITAS provide knowledge for (2 things)? --- Reason for flag: make it like two things 
+Question: Compare the Mars North vs South Polar Caps (3 things) --- Reason for flag: this aint three things lmao 
+Question: Which Kepler-186 planet is in the habitable zone? --- Reason for flag: make it one letter: F instead of Kepler-186f 
+Question: What does water a role in Titan --- Reason for flag: question spelling error 
+Question: What are the reddish-brown patches on Europa made up of and how were they formed? --- Reason for flag: Just say how were these patches formed 
+Question: What do Europa's surface features (including bands, ridges, chaos terrain, and multi-ringed impact structures) suggest? --- Reason for flag: the answer doesn't make sense: "that sometimes has reached the surface" 
+Question: What could Bennu contain similar to Earth? --- Reason for flag: I think its better to just have "organic molecules" instead of long sentence 
+Question: Where could Titan have life? --- Reason for flag: make it more condensed 
+Question: Which planet of Proxima Centauri is in the Habitable Zone and what is its relative size? --- Reason for flag: the "also in the habitable zone" is redundant 
+Question: Why could Bennu contain stuff similar to Earth? --- Reason for flag: bro 💀💀 like get an actual answer 
+Question: Why did Bennu migrate toward Earth? --- Reason for flag: Put the definition of the long-term Yarkovsky effect as a seperate question and dont include hjere 
+Question: Europa Ocean --- Reason for flag: the question is too broad 
+Question: What will VERITAS provide knowledge for (2 things)? --- Reason for flag: thats not 2 things 
+Question: How does Tidal Heating happen on Europa? --- Reason for flag: split this into 2 questions where the other question asks why does EUROPA have tides 
